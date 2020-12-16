@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>芳华^-^博客</title>
+  
+  <subtitle>芳华^-^博客</subtitle>
+  <link href="https://xwaty.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://xwaty.github.io/"/>
+  <updated>2020-12-16T00:46:29.477Z</updated>
+  <id>https://xwaty.github.io/</id>
+  
+  <author>
+    <name>钱旺旺</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何加密 Hexo 博客</title>
+    <link href="https://xwaty.github.io/2020/12/15/ru-he-jia-mi-hexo-bo-ke/"/>
+    <id>https://xwaty.github.io/2020/12/15/ru-he-jia-mi-hexo-bo-ke/</id>
+    <published>2020-12-14T16:00:00.000Z</published>
+    <updated>2020-12-16T00:46:29.477Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;SSH 是一个可靠的，专为远程登录会话和其他网络服务提供安全性的协议。利用 SSH 协议可以有效防止远程管理过程中的信息泄露问题。&lt;/p&gt;
+&lt;h2 id=&quot;创建-SSH：&quot;&gt;&lt;a href=&quot;#创建-SSH：&quot; class=&quot;headerlink&quot; title=&quot;创建</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Hexo" scheme="https://xwaty.github.io/tags/Hexo/"/>
+    
+    <category term="SSH" scheme="https://xwaty.github.io/tags/SSH/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何搭建 Hexo 博客</title>
+    <link href="https://xwaty.github.io/2020/12/14/ru-he-da-jian-hexo-bo-ke/"/>
+    <id>https://xwaty.github.io/2020/12/14/ru-he-da-jian-hexo-bo-ke/</id>
+    <published>2020-12-13T16:00:00.000Z</published>
+    <updated>2020-12-15T14:38:04.667Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Hexo 是一个快速、简洁且高效的静态博客框架。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;超快速度：Node.js 所带来的超快生成速度，让上百个页面在几秒内瞬间完成渲染。&lt;/li&gt;
+&lt;li&gt;支持 MarkDown：Hexo 支持 GitHub Flavored Markdown</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Hexo" scheme="https://xwaty.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+</feed>
